@@ -62,7 +62,7 @@ const ImagTitle = styled.div`
   align-items: flex-end;
   display: flex;
   justify-content: flex-start;
-  height: 30vw;
+  height: 35vh;
   min-height: 170px;
   padding-bottom: 24px;
   width: 35vw;
@@ -127,7 +127,7 @@ const SubTitle = styled.div`
 `;
 const Discription = styled.div`
   line-height: 1.4;
-
+  max-width: 700px;
   margin-left: 30px;
   color: rgb(249, 249, 249);
   font-size: 20px;
